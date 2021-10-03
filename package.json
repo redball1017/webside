@@ -1,0 +1,8 @@
+{
+  "name": "cypress-gh-action-included",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Example showing how to use cypress/included Docker image inside GH Actions CI",
+  "scripts": {
+    "test": "npm -i hexo && hexo init"
+  }
